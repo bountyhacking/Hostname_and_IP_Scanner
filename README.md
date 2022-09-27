@@ -1,5 +1,5 @@
-# Escaner de Host e IP
-Este es un escaner de direcciones IP y nombres de HOST en una computadora victima.
+# Hostname and IP address scanner.
+This is a scan of IP addresses and HOST names on a victim computer.
 
-# Instrucciones
-Solo hay que ejecutar el programa normalmente.
+# Instructions
+Run the code.
